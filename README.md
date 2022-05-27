@@ -95,3 +95,6 @@ var div_mb_3 = create_element('div',{'class':'mb-3'}, null, null);
 Licensed by [MIT](https://raw.githubusercontent.com/divyamshu/Create-JS/main/LICENSE)
 
 Developed by [Divyamshu Gupta](https://github.com/divyamshu)
+
+
+<img src="https://createjs.blob.core.windows.net/images/create-JS.png">
