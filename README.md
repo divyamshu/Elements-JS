@@ -1,4 +1,4 @@
-# Create Element JS 
+# Create Elements JS 
 
 Create Element JS helps in removing redundancy & complication while creating synamic elements using Vanilla JS.
 
