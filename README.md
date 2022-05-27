@@ -48,7 +48,7 @@ create_element(`Element Name` ; `Attributes` ; `Parent Element` ;  `Innertext`);
 
 > Example To Create a Heading
  ```sh
-  <h1> Bootstrap heading</h1>
+  <h2> Bootstrap heading</h2>
 ```
 We have to declare it as below - 
  ```sh
