@@ -6,12 +6,12 @@ Create Element JS helps in removing redundancy & complication while creating syn
 
 # Compatibility 
 
-<img src="https://createjs.blob.core.windows.net/images/all-icon.png">
+<img src="https://elementsjs.blob.core.windows.net/public/all-icon.png">
 
 
 Enable into your project by importing - 
 ```sh
-https://createjs.blob.core.windows.net/public/create-elements.js
+https://elementsjs.blob.core.windows.net/public/create-elements.js
 ```
 
 
@@ -20,7 +20,7 @@ https://createjs.blob.core.windows.net/public/create-elements.js
 Declare on your web-page within `<body>` or `<head>`
 
 ```sh
-<script src="https://createjs.blob.core.windows.net/public/create-elements.js">
+<script src="https://elementsjs.blob.core.windows.net/public/create-elements.js">
 
 ```
 
@@ -97,4 +97,4 @@ Licensed by [MIT](https://raw.githubusercontent.com/divyamshu/Create-JS/main/LIC
 Developed by [Divyamshu Gupta](https://github.com/divyamshu)
 
 
-<img src="https://createjs.blob.core.windows.net/images/create-JS.png">
+<img src="https://elementsjs.blob.core.windows.net/public/element-JS.png">
