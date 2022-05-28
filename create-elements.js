@@ -15,6 +15,7 @@
                 }
                 if (parent_variable != null) {
                     parent_variable.appendChild(var_element);
+                    return var_element       
                 }
                 else {
                     return var_element
