@@ -20,7 +20,7 @@ https://elementsjs.blob.core.windows.net/public/create-elements.js
 Declare on your web-page within `<body>` or `<head>`
 
 ```sh
-<script src="https://elementsjs.blob.core.windows.net/public/create-elements.js">
+<script src="https://elementsjs.blob.core.windows.net/public/create-elements.js"></script>
 
 ```
 
