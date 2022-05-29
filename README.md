@@ -33,7 +33,7 @@ Declare on your web-page within `<body>` or `<head>`
 - Innertext for the element if any
 
 
-create_element(`Element Name` ; `Attributes` ; `Parent Element` ;  `Innertext`);
+create_element(`Element Name` , `Attributes` , `Parent Element` ,  `Innertext`);
 
 | Function Argument | Data Type | Required |
 |-------------------|-----------|----------|
